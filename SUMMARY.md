@@ -1,6 +1,6 @@
 # Table of contents
 
-* [001\_pentesting_process](README.md)
+* [000\_pentesting_process](README.md)
   * [00 penetration testing process](00_penetration_testing_process.md)
   * [01 information-gathering](01_information-gathering.md)
   * [02 pre-engagement](02_pre-engagement.md)

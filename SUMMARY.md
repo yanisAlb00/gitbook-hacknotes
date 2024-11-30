@@ -1,6 +1,6 @@
 # Table of contents
 
-* [000\_pentesting_process](README.md)
+* [000\_pentesting_process](000\_pentesting\_process/README.md)
   * [00 penetration testing process](000\_pentesting\_process/00_penetration_testing_process.md)
   * [01 information-gathering](000\_pentesting\_process/01_information-gathering.md)
   * [02 pre-engagement](000\_pentesting\_process/02_pre-engagement.md)
@@ -8,7 +8,7 @@
   * [04 attack-phases](000\_pentesting\_process/04_attack-phases.md)
   * [05 poc](000\_pentesting\_process/05_poc.md)
   * [06 post-engagement](000\_pentesting\_process/06_post-engagement.md)
-* [001\_Scanning](README.md)
+* [001\_Scanning](001\_scanning/README.md)
   * [Information Gathering](001\_scanning/information-gathering.md)
   * [Nmap](001\_scanning/nmap.md)
   * [DNS](001\_scanning/dns.md)

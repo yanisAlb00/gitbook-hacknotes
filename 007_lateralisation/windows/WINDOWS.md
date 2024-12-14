@@ -5,3 +5,4 @@
 * [Readme](007_lateralisation/windows/README.md)
 * [Winrs](007_lateralisation/windows/winrs.md)
 * [Wmi](007_lateralisation/windows/wmi.md)
+* [windows/](007_lateralisation/windows/WINDOWS.md)

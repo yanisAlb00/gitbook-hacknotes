@@ -1,3 +1,4 @@
+* [006_active_directory/](006_active_directory/006_ACTIVE_DIRECTORY.md)
 * [As-rep-roasting](006_active_directory/as-rep-roasting.md)
 * [Credentials-enumeration](006_active_directory/credentials-enumeration.md)
 * [Dcsync](006_active_directory/dcsync.md)

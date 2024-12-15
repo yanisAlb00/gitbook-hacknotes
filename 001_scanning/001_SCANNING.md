@@ -1,6 +1,0 @@
-* [001_scanning/](001_scanning/001_SCANNING.md)
-* [Dns](001_scanning/dns.md)
-* [Information-gathering](001_scanning/information-gathering.md)
-* [Nmap](001_scanning/nmap.md)
-* [Readme](001_scanning/README.md)
-* [Vulnerabilty-assessement](001_scanning/vulnerabilty-assessement.md)

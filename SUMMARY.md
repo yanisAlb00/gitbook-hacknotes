@@ -171,7 +171,7 @@
   * [23 lab assessement part1](010_active_directory/23_lab_assessement_part1.md)
   * [24 lab assessement part2](010_active_directory/24_lab_assessement_part2.md)
 
-* [011\_web\_proxies](011_web_proxies/README.md)s
+* [011\_web\_proxies](011_web_proxies/README.md)
   * [00 intro](011_web_proxies/00_intro.md)
   * [01 proxy setup](011_web_proxies/01_proxy_setup.md)
   * [02 intercepting responses](011_web_proxies/02_intercepting_responses.md)
@@ -182,6 +182,17 @@
   * [07 web fuzzers](011_web_proxies/07_web_fuzzers.md)
   * [08 web scanners](011_web_proxies/08_web_scanners.md)
   * [09 skills assessement](011_web_proxies/09_skills_assessement.md)
+
+* [012\_ffuf](012_ffuf/README.md)
+  * [00 intro](012_ffuf/00_intro.md)
+  * [01 directory fuzzing](012_ffuf/01_directory_fuzzing.md)
+  * [02 page fuzzing](012_ffuf/02_page_fuzzing.md)
+  * [03 recursive fuzzing](012_ffuf/03_recursive_fuzzing.md)
+  * [04 sub-domain fuzzing](012_ffuf/04_sub-domain_fuzzing.md)
+  * [05 vhost-fuzzing](012_ffuf/05_vhost-fuzzing.md)
+  * [06 parameter fuzzing](012_ffuf/06_parameter_fuzzing.md)
+  * [07 value fuzzing](012_ffuf/07_value_fuzzing.md)
+  * [08 skill assessment](012_ffuf/08_skill_assessment.md)
 
 * [003\_Web](003_web/README.md)
   * [SQL Injection](003_web/sql-injection.md)

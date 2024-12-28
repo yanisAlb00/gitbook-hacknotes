@@ -1,6 +1,6 @@
 # Table of contents
 
-* [000\_pentesting\_process](README.md)
+* [000\_pentesting\_process](000_pentesting_process/README.md)
   * [00 penetration testing process](000_pentesting_process/00_penetration_testing_process.md)
   * [01 information-gathering](000_pentesting_process/01_information-gathering.md)
   * [02 pre-engagement](000_pentesting_process/02_pre-engagement.md)
@@ -15,7 +15,7 @@
   * [11 privileges escalation](000_pentesting_process/11_privileges_escalation.md)
   * [12 transferring files](000_pentesting_process/12_transferring_files.md)
   * [13 common terms](000_pentesting_process/13_common_terms.md)
-* [001\_Scanning](README.md)
+* [001\_Scanning](001_scanning/README.md)
   * [00 nmap](001_scanning/00_nmap.md)
   * [01 nmap enumeration services](001_scanning/01_nmap_enumeration_services.md)
   * [02 nse nmap script engine](001_scanning/02_nse_nmap_script_engine.md)
@@ -24,7 +24,7 @@
   * [05 nmap fw ids ips](001_scanning/05_nmap_fw_ids_ips.md)
   * [Information Gathering](001_scanning/information-gathering.md)
   * [Nmap](001_scanning/nmap.md)
-* [002\_Footprinting](README.md)
+* [002\_Footprinting](002_footprinting/README.md)
   * [00 enumeration principles](002_footprinting/00_enumeration_principles.md)
   * [02 enumeration methodology](002_footprinting/02_enumeration_methodology.md)
   * [03 domain information](002_footprinting/03_domain_information.md)

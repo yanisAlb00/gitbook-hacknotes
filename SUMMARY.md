@@ -194,6 +194,18 @@
   * [07 value fuzzing](012_ffuf/07_value_fuzzing.md)
   * [08 skill assessment](012_ffuf/08_skill_assessment.md)
 
+* [013\_login\_bruteforce](013_login_bruteforce/README.md)
+  * [00 intro](013_login_bruteforce/00_intro.md)
+  * [01 password attacks](013_login_bruteforce/01_password_attacks.md)
+  * [02 default passwords](013_login_bruteforce/02_default_passwords.md)
+  * [03 username brute-force](013_login_bruteforce/03_username_brute-force.md)
+  * [04 login-parameters](013_login_bruteforce/04_login-parameters.md)
+  * [05 personalized wordlists](013_login_bruteforce/05_personalized_wordlists.md)
+  * [06 service authentication brute forcing](013_login_bruteforce/06_service_authentication_brute_forcing.md)
+
+
+
+
 * [003\_Web](003_web/README.md)
   * [SQL Injection](003_web/sql-injection.md)
   * [Web Bruteforcing](003_web/web-bruteforcing.md)

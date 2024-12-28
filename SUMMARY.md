@@ -1,6 +1,6 @@
 # Table of contents
 
-* [000\_pentesting\_process](000_pentesting_process/README.md)
+* [000\_pentesting\_process](README.md)
   * [00 penetration testing process](000_pentesting_process/00_penetration_testing_process.md)
   * [01 information-gathering](000_pentesting_process/01_information-gathering.md)
   * [02 pre-engagement](000_pentesting_process/02_pre-engagement.md)
@@ -15,7 +15,6 @@
   * [11 privileges escalation](000_pentesting_process/11_privileges_escalation.md)
   * [12 transferring files](000_pentesting_process/12_transferring_files.md)
   * [13 common terms](000_pentesting_process/13_common_terms.md)
-
 * [001\_Scanning](001_scanning/README.md)
   * [00 nmap](001_scanning/00_nmap.md)
   * [01 nmap enumeration services](001_scanning/01_nmap_enumeration_services.md)
@@ -25,7 +24,6 @@
   * [05 nmap fw ids ips](001_scanning/05_nmap_fw_ids_ips.md)
   * [Information Gathering](001_scanning/information-gathering.md)
   * [Nmap](001_scanning/nmap.md)
-
 * [002\_Footprinting](002_footprinting/README.md)
   * [00 enumeration principles](002_footprinting/00_enumeration_principles.md)
   * [02 enumeration methodology](002_footprinting/02_enumeration_methodology.md)
@@ -47,7 +45,6 @@
   * [17 lab easy](002_footprinting/17_lab_easy.md)
   * [18 lab medium](002_footprinting/18_lab_medium.md)
   * [19 lab hard](002_footprinting/19_lab_hard.md)
-
 * [003\_information\_gathering](003_information_gathering/README.md)
   * [00 information gathering](003_information_gathering/00_information_gathering.md)
   * [01 whois](003_information_gathering/01_whois.md)
@@ -58,12 +55,10 @@
   * [06 active subdomain enumeration](003_information_gathering/06_active_subdomain_enumeration.md)
   * [07 virtual hosts](003_information_gathering/07_virtual_hosts.md)
   * [08 crawling](003_information_gathering/08_crawling.md)
-
 * [004\_vulnerability\_assessment](004_vulnerability_assessment/README.md)
   * [00 vulnerability assesment](004_vulnerability_assessment/00_vulnerability_assesment.md)
   * [01 nessus](004_vulnerability_assessment/01_nessus.md)
   * [02 openvas](004_vulnerability_assessment/02_openvas.md)
-
 * [005\_file\_transfer](005_file_transfer/README.md)
   * [00 windows download operations](005_file_transfer/00_windows_download_operations.md)
   * [01 windows upload operations](005_file_transfer/01_windows_upload_operations.md)
@@ -74,7 +69,6 @@
   * [06 ncat file transfer](005_file_transfer/06_ncat_file_transfer.md)
   * [07 file encryption before transferring](005_file_transfer/07_file_encryption_before_transferring.md)
   * [08 living off the land](005_file_transfer/08_living_off_the_land.md)
-
 * [006\_shells](006_shells/README.md)
   * [00 anatomy of a shell](006_shells/00_anatomy_of_a_shell.md)
   * [01 bind shell](006_shells/01_bind_shell.md)
@@ -90,7 +84,6 @@
   * [09 web-shells](006_shells/09_web-shells.md)
   * [10 detection and prevention](006_shells/10_detection_and_prevention.md)
   * [Interactive-shells](006_shells/interactive-shells.md)
-
 * [007\_passwords](007_passwords/README.md)
   * [00 credential storage](007_passwords/00_credential_storage.md)
   * [01 john](007_passwords/01_john.md)
@@ -112,7 +105,6 @@
   * [17 lab easy](007_passwords/17_lab_easy.md)
   * [18 lab medium](007_passwords/18_lab_medium.md)
   * [19 lab hard](007_passwords/19_lab_hard.md)
-
 * [008\_attack\_common\_services](008_attack_common_services/README.md)
   * [00 interacting with common services](008_attack_common_services/00_interacting_with_Common_Services.md)
   * [01 concept of attacks](008_attack_common_services/01_concept_of_attacks.md)
@@ -127,7 +119,6 @@
   * [10 lab easy](008_attack_common_services/10_lab_easy.md)
   * [11 lab medium](008_attack_common_services/11_lab_medium.md)
   * [12 lab hard](008_attack_common_services/12_lab_hard.md)
-
 * [009\_pivoting\_tunneling](009_pivoting_tunneling/README.md)
   * [00 intro](009_pivoting_tunneling/00_intro.md)
   * [01 dynamic port forwarding](009_pivoting_tunneling/01_Dynamic_Port_Forwarding.md)
@@ -143,7 +134,6 @@
   * [11 icmp tunneling with socks](009_pivoting_tunneling/11_icmp_Tunneling_with_SOCKS.md)
   * [12 socksoverrdp tunneling](009_pivoting_tunneling/12_SocksOverRDP_Tunneling.md)
   * [13 skills assessement](009_pivoting_tunneling/13_skills_assessement.md)
-
 * [010\_active\_directory](010_active_directory/README.md)
   * [00 activedirectory](010_active_directory/00_activedirectory.md)
   * [01 external recon](010_active_directory/01_external_recon.md)
@@ -170,7 +160,6 @@
   * [22 additional ad auditing techniques](010_active_directory/22_additional_AD_Auditing_Techniques.md)
   * [23 lab assessement part1](010_active_directory/23_lab_assessement_part1.md)
   * [24 lab assessement part2](010_active_directory/24_lab_assessement_part2.md)
-
 * [011\_web\_proxies](011_web_proxies/README.md)
   * [00 intro](011_web_proxies/00_intro.md)
   * [01 proxy setup](011_web_proxies/01_proxy_setup.md)
@@ -182,7 +171,6 @@
   * [07 web fuzzers](011_web_proxies/07_web_fuzzers.md)
   * [08 web scanners](011_web_proxies/08_web_scanners.md)
   * [09 skills assessement](011_web_proxies/09_skills_assessement.md)
-
 * [012\_ffuf](012_ffuf/README.md)
   * [00 intro](012_ffuf/00_intro.md)
   * [01 directory fuzzing](012_ffuf/01_directory_fuzzing.md)
@@ -193,7 +181,6 @@
   * [06 parameter fuzzing](012_ffuf/06_parameter_fuzzing.md)
   * [07 value fuzzing](012_ffuf/07_value_fuzzing.md)
   * [08 skill assessment](012_ffuf/08_skill_assessment.md)
-
 * [013\_login\_bruteforce](013_login_bruteforce/README.md)
   * [00 intro](013_login_bruteforce/00_intro.md)
   * [01 password attacks](013_login_bruteforce/01_password_attacks.md)
@@ -202,7 +189,6 @@
   * [04 login-parameters](013_login_bruteforce/04_login-parameters.md)
   * [05 personalized wordlists](013_login_bruteforce/05_personalized_wordlists.md)
   * [06 service authentication brute forcing](013_login_bruteforce/06_service_authentication_brute_forcing.md)
-
 * [014\_sql\_injection](014_sql_injection/README.md)
   * [00 intro](014_sql_injection/00_intro.md)
   * [01 mysql](014_sql_injection/01_mysql.md)
@@ -219,7 +205,6 @@
   * [12 writing files](014_sql_injection/12_writing_files.md)
   * [13 skills assessement](014_sql_injection/13_skills_assessement.md)
   * [Sqlinjection](014_sql_injection/sqlinjection.md)
-
 * [015\_sqlmap](015_sqlmap/README.md)
   * [00 sqlmap](015_sqlmap/00_sqlmap.md)
   * [01 sqlmap output](015_sqlmap/01_sqlmap_output.md)
@@ -231,7 +216,6 @@
   * [07 bypassing web application protections](015_sqlmap/07_bypassing_web_application_protections.md)
   * [08 os exploitation](015_sqlmap/08_os_exploitation.md)
   * [09 skills assessement](015_sqlmap/09_skills_assessement.md)
-
 * [016\_xss](016_xss/README.md)
   * [00 intro](016_xss/00_intro.md)
   * [01 stored xss](016_xss/01_stored_xss.md)
@@ -242,7 +226,6 @@
   * [06 phishing](016_xss/06_phishing.md)
   * [07 session hijacking](016_xss/07_session_hijacking.md)
   * [08 skills assessement](016_xss/08_skills_assessement.md)
-
 * [017\_file\_inclusion](017_file_inclusion/README.md)
   * [00 intro](017_file_inclusion/00_intro.md)
   * [01 lfi local file inclusion](017_file_inclusion/01_LFI_Local_File_Inclusion.md)
@@ -255,7 +238,6 @@
   * [08 automated scanning](017_file_inclusion/08_Automated_scanning.md)
   * [09 file inclusion prevention](017_file_inclusion/09_File_Inclusion_Prevention.md)
   * [10 skills assessment](017_file_inclusion/10_skills_assessment.md)
-
 * [018\_file\_upload](018_file_upload/README.md)
   * [00 intro](018_file_upload/00_intro.md)
   * [01 absent validation](018_file_upload/01_absent_validation.md)
@@ -266,7 +248,6 @@
   * [06 type filters](018_file_upload/06_type_filters.md)
   * [07 limited file uploads](018_file_upload/07_limited_file_uploads.md)
   * [08 skills assessment](018_file_upload/08_skills_assessment.md)
-
 * [019\_command\_injection](019_command_injection/README.md)
   * [00 intro](019_command_injection/00_intro.md)
   * [01 detection and basic injections](019_command_injection/01_detection_and_basic_injections.md)
@@ -277,7 +258,6 @@
   * [06 advanced command obfuscation](019_command_injection/06_advanced_command_obfuscation.md)
   * [07 evasion tools](019_command_injection/07_evasion_tools.md)
   * [08 skills assessment](019_command_injection/08_skills_assessment.md)
-
 * [020\_web\_attack](020_web_attack/README.md)
   * [00 intro](020_web_attack/00_intro.md)
   * [01 intro http verb tampering](020_web_attack/01_intro_HTTP_Verb_Tampering.md)
@@ -294,7 +274,6 @@
   * [12 advanced file discolsure xee](020_web_attack/12_advanced_file_discolsure_XEE.md)
   * [13 blind exfiltration xee](020_web_attack/13_blind_exfiltration_XEE.md)
   * [14 skills assessment](020_web_attack/14_skills_assessment.md)
-
 * [021\_attack\_common\_application](021_attack_common_application/README.md)
   * [00 intro](021_attack_common_application/00_intro.md)
   * [01 application enumeration and discovery](021_attack_common_application/01_application_enumeration_and_discovery.md)
@@ -328,7 +307,6 @@
   * [29 skills assessment1](021_attack_common_application/29_skills_assessment1.md)
   * [30 skills assessment2](021_attack_common_application/30_skills_assessment2.md)
   * [31 skills assessment3](021_attack_common_application/31_skills_assessment3.md)
-
 * [022\_linux\_privilege\_escalation](022_linux_privilege_escalation/README.md)
   * [00 intro](022_linux_privilege_escalation/00_intro.md)
   * [01 environment enumeration](022_linux_privilege_escalation/01_environment_enumeration.md)
@@ -357,8 +335,6 @@
   * [24 dirty pipe](022_linux_privilege_escalation/24_dirty_pipe.md)
   * [25 netfilter](022_linux_privilege_escalation/25_netfilter.md)
   * [26 linux skills assessment](022_linux_privilege_escalation/26_linux_skills_assessment.md)
-
-
 * [023\_windows\_privilege\_escalation](023_windows_privilege_escalation/README.md)
   * [00 intro](023_windows_privilege_escalation/00_intro.md)
   * [01 situational awareness](023_windows_privilege_escalation/01_situational_awareness.md)
@@ -390,12 +366,9 @@
   * [27 legacy windows desktop](023_windows_privilege_escalation/27_legacy_windows_desktop.md)
   * [28 skills assessment part 1](023_windows_privilege_escalation/28_skills_assessment_part_1.md)
   * [29 skills assessment part2](023_windows_privilege_escalation/29_skills_assessment_part2.md)
-
 * [024\_documentation\_and\_reporting](024_documentation_and_reporting/README.md)
   * [00 noteteaking and organization](024_documentation_and_reporting/00_noteteaking_and_organization.md)
   * [01 practice lab](024_documentation_and_reporting/01_practice_lab.md)
-
-
 * [003\_Web](003_web/README.md)
   * [SQL Injection](003_web/sql-injection.md)
   * [Web Bruteforcing](003_web/web-bruteforcing.md)

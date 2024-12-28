@@ -7,10 +7,8 @@
 * Bruteforce single user
 * Enumerate user
 
-Pre-authentication (AS-REQ) is possible on all accounts that do not have this checkbox unchecked : \
+Pre-authentication (AS-REQ) is possible on all accounts that have this checkbox unchecked :\
 ![](<../.gitbook/assets/image (9).png>)
-
-
 
 In Pre-authentication, the user does not supply its password but a secret which is derivated from its password (DES, RC4, AES128 or AES256).
 
@@ -45,6 +43,3 @@ smartbrute.py smart -bP $PASSWORD_LIST ntlm -d $DOMAIN -u $USER -p $PASSWORD ker
 nmap -p 88 --script="krb5-enum-users" --script-args="krb5-enum-users.realm='$DOMAIN',userdb=$WORDLIST" $IP_DC
 
 ```
-
-
-

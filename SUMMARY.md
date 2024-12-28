@@ -15,6 +15,7 @@
   * [11 privileges escalation](000_pentesting_process/11_privileges_escalation.md)
   * [12 transferring files](000_pentesting_process/12_transferring_files.md)
   * [13 common terms](000_pentesting_process/13_common_terms.md)
+
 * [001\_Scanning](001_scanning/README.md)
   * [00 nmap](001_scanning/00_nmap.md)
   * [01 nmap enumeration services](001_scanning/01_nmap_enumeration_services.md)
@@ -24,6 +25,7 @@
   * [05 nmap fw ids ips](001_scanning/05_nmap_fw_ids_ips.md)
   * [Information Gathering](001_scanning/information-gathering.md)
   * [Nmap](001_scanning/nmap.md)
+
 * [002\_Footprinting](002_footprinting/README.md)
   * [00 enumeration principles](002_footprinting/00_enumeration_principles.md)
   * [02 enumeration methodology](002_footprinting/02_enumeration_methodology.md)
@@ -45,6 +47,7 @@
   * [17 lab easy](002_footprinting/17_lab_easy.md)
   * [18 lab medium](002_footprinting/18_lab_medium.md)
   * [19 lab hard](002_footprinting/19_lab_hard.md)
+
 * [003\_information\_gathering](003_information_gathering/README.md)
   * [00 information gathering](003_information_gathering/00_information_gathering.md)
   * [01 whois](003_information_gathering/01_whois.md)
@@ -55,10 +58,22 @@
   * [06 active subdomain enumeration](003_information_gathering/06_active_subdomain_enumeration.md)
   * [07 virtual hosts](003_information_gathering/07_virtual_hosts.md)
   * [08 crawling](003_information_gathering/08_crawling.md)
+
 * [004\_vulnerability\_assessment](004_vulnerability_assessment/README.md)
   * [00 vulnerability assesment](004_vulnerability_assessment/00_vulnerability_assesment.md)
   * [01 nessus](004_vulnerability_assessment/01_nessus.md)
   * [02 openvas](004_vulnerability_assessment/02_openvas.md)
+
+* [005\_file\_transfer](005_file_transfer/README.md)
+  * [00 windows download operations](005_file_transfer/00_windows_download_operations.md)
+  * [01 windows upload operations](005_file_transfer/01_windows_upload_operations.md)
+  * [02 powershell file transfer](005_file_transfer/02_powershell_file_transfer.md)
+  * [03 linux download operations](005_file_transfer/03_linux_download_operations.md)
+  * [04 linux upload operations](005_file_transfer/04_linux_upload_operations.md)
+  * [05 transferring files with code](005_file_transfer/05_transferring_files_with_code.md)
+  * [06 ncat file transfer](005_file_transfer/06_ncat_file_transfer.md)
+  * [07 file encryption before transferring](005_file_transfer/07_file_encryption_before_transferring.md)
+  * [08 living off the land](005_file_transfer/08_living_off_the_land.md)
 
 * [003\_Web](003_web/README.md)
   * [SQL Injection](003_web/sql-injection.md)

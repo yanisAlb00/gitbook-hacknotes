@@ -1,0 +1,146 @@
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find admin.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find ftp.admin.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find careers.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find dc1.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find dc2.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+internal.inlanefreight.htb
+	origin = inlanefreight.htb
+	mail addr = root.inlanefreight.htb
+	serial = 2
+	refresh = 604800
+	retry = 86400
+	expire = 2419200
+	minimum = 604800
+internal.inlanefreight.htb	text = "ZONE_TRANSFER{87o2z3cno7zsoiedznxoi82z3o47xzhoi}"
+internal.inlanefreight.htb	nameserver = ns.inlanefreight.htb.
+Name:	dev.admin.internal.inlanefreight.htb
+Address: 10.10.1.2
+Name:	panel.admin.internal.inlanefreight.htb
+Address: 10.10.1.2
+Name:	printer.admin.internal.inlanefreight.htb
+Address: 10.10.1.3
+Name:	dc3.internal.inlanefreight.htb
+Address: 10.10.1.5
+Name:	ns.internal.inlanefreight.htb
+Address: 127.0.0.1
+Name:	ns2.internal.inlanefreight.htb
+Address: 10.10.34.136
+Name:	ws1.internal.inlanefreight.htb
+Address: 10.10.2.11
+Name:	ws2.internal.inlanefreight.htb
+Address: 10.10.3.12
+internal.inlanefreight.htb
+	origin = inlanefreight.htb
+	mail addr = root.inlanefreight.htb
+	serial = 2
+	refresh = 604800
+	retry = 86400
+	expire = 2419200
+	minimum = 604800
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find admin.internal.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find wsus.internal.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find ir.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find dev.ir.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find ns.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find resources.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find securemessaging.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find test1.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find us.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find cluster14.us.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find messagecenter.us.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find ww02.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+
+Server:		10.129.241.191
+Address:	10.129.241.191#53
+
+** server can't find www1.inlanefreight.htb: NOTAUTH
+; Transfer failed.
+

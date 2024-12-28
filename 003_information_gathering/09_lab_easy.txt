@@ -1,0 +1,10 @@
+ns.inlanefreight.htb.                    604800   IN    A         127.0.0.1
+admin.inlanefreight.htb.                 604800   IN    A        10.10.34.2
+www1.inlanefreight.htb.                  604800   IN    A        10.10.34.111
+test1.inlanefreight.htb.                 604800   IN    A        10.10.34.101
+us.inlanefreight.htb.                    604800   IN    A        10.10.200.5
+careers.inlanefreight.htb.               604800   IN    A        10.10.34.50
+resources.inlanefreight.htb.             604800   IN    A        10.10.34.100
+ir.inlanefreight.htb.                    604800   IN    A        10.10.45.5
+dc1.inlanefreight.htb.                   604800   IN    A        10.10.34.16
+dc2.inlanefreight.htb.                   604800   IN    A        10.10.34.11

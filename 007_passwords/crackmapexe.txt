@@ -1,0 +1,6 @@
+enum4linux-ng -A "$TARGET"
+
+crackmapexec -h
+crackmapexec winrm -h
+crackmapexec <proto> <target-IP> -u <user or userlist> -p <password or passwordlist>
+crackmapexec smb 10.129.202.136 -u "user" -p "password" --shares

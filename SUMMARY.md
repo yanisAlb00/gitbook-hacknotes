@@ -55,6 +55,11 @@
   * [06 active subdomain enumeration](003_information_gathering/06_active_subdomain_enumeration.md)
   * [07 virtual hosts](003_information_gathering/07_virtual_hosts.md)
   * [08 crawling](003_information_gathering/08_crawling.md)
+* [004\_vulnerability\_assessment](004_vulnerability_assessment/README.md)
+  * [00 vulnerability assesment](004_vulnerability_assessment/00_vulnerability_assesment.md)
+  * [01 nessus](004_vulnerability_assessment/01_nessus.md)
+  * [02 openvas](004_vulnerability_assessment/02_openvas.md)
+
 * [003\_Web](003_web/README.md)
   * [SQL Injection](003_web/sql-injection.md)
   * [Web Bruteforcing](003_web/web-bruteforcing.md)
